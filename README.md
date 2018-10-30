@@ -14,7 +14,7 @@ La aplicacion dispondra de tres tablas, para controlar ya sea las ventas en tien
 #### 2.1 Descripccion de la base de datos
 Este es el esquema que vamos a utilizar para adminitras nuestra web
 
-![Base de datos](imagenes/'MODEL ER PROJECTE WEB.png')
+![Base de datos](imagenes/model.png)
 
 #### 2.2 Descripcion de la web
 La pagina web tendra este aspecto:
