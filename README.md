@@ -19,3 +19,16 @@ Este es el esquema que vamos a utilizar para administrar nuestra web.
 
 #### 2.2 Descripcion de la web
 La pagina web tendra este aspecto:
+
+* **Pagina inicial**: En la pagina inicial nos encontraremos un mene desde donde podreis acceder a nuestros :
+  * Contactos
+  * Productos
+  * Servicios
+  * Novedades
+  
+
+
+* ** Registro de usuarios**:
+
+
+
